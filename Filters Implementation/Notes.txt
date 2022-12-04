@@ -1,0 +1,11 @@
+Future Improvements:
+
+- use functions instead of repeating the code (get the fingerprint of the sample).
+- check out cross correlation in matlab.
+- Document the code.
+
+Cross correlation:
+-for the same sound (autocorrelation) = 2.4742
+-for do7a_1 = 4.2840
+-for me saying "two" = 0.8413
+-for me saying "one" in a noisy mic = 2.3541

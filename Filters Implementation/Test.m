@@ -70,3 +70,7 @@ end
 
 y_out = y_out
 %printf("\noutput %d %d %d %d \n", y_out);
+
+%tesing upsample
+z = [1 2 3]
+z_up = upsample(z,6)
